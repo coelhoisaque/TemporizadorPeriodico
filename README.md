@@ -26,8 +26,8 @@ Cada LED deve ser conectado em série com um resistor de 330 Ω para limitar a c
 ## Instalação e Execução
 ### Clonando o Repositório
 ```sh
-git clone 
-cd 
+git clone https://github.com/coelhoisaque/TemporizadorPeriodico.git
+cd TemporizadorPeriodico
 ```
 
 ### Compilando o Código
